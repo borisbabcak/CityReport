@@ -89,7 +89,7 @@ The application streamlines the process of handling, assigning, and resolving th
 - Department **1 : M** Technician
 - Report **M : N** Technician (via `report_technician` table)
 
-📎 ER diagram included in the repository as `docs/er-diagram.pdf`.
+📎 ER diagram included in the repository as `CityReport/er-diagram.pdf`.
 
 ---
 
